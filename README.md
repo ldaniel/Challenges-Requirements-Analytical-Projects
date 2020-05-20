@@ -1,2 +1,2 @@
-# Challenges-Requirements-Analytical-Projects
+# Challenges and Requirements of Analytical Projects
 Final class assignment
