@@ -1,6 +1,6 @@
 # Challenges and Requirements of Analytical Projects
 Final class assignment.
-.
+
 ## Professor
 - Bruno Brito de Souza
 
