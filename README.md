@@ -5,7 +5,7 @@ Final class assignment.
 
 This website intends to present the work analysis for the *"Desafios e Requisitos dos Projetos Analíticos"* class assignment.
 
-:octocat: Run the project on binder at: (soon)
+:octocat: Run the project on binder at: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ldaniel/Challenges-Requirements-Analytical-Projects/master)
 
 ## Professor
 - Bruno Brito de Souza
