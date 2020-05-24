@@ -1,6 +1,12 @@
 # Challenges and Requirements of Analytical Projects
 Final class assignment.
 
+# Introduction
+
+This website intends to present the work analysis for the *"Desafios e Requisitos dos Projetos Analíticos"* class assignment.
+
+:octocat: Run the project on binder at: (soon)
+
 ## Professor
 - Bruno Brito de Souza
 
