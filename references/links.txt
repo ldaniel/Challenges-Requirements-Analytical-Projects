@@ -1,0 +1,22 @@
+COVID-19: Face Mask Detector with OpenCV, Keras/TensorFlow, and Deep Learning
+https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/
+
+-------------
+
+Super Desafio- COVID-19 | CORONAVÍRUS
+https://www.openstartups.net/site/coronavirus-challenges.html
+
+-------------
+
+Artigo: DESAFIOS PARA O ENFRENTAMENTO DA PANDEMIA COVID-19 EM HOSPITAIS UNIVERSITÁRIOS
+https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-05822020000100101&lng=pt&nrm=iso&tlng=pt
+
+-------------
+
+Nações Unidas - Criar tecnologias para ajudar a enfrentar os desafios da COVID-19
+https://nacoesunidas.org/criar-tecnologias-para-ajudar-a-enfrentar-os-desafios-da-covid-19/
+
+-------------
+
+WHO - Coronavirus disease (COVID-19) pandemic
+https://www.who.int/emergencies/diseases/novel-coronavirus-2019
