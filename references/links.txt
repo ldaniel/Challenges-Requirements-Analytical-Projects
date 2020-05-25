@@ -40,3 +40,13 @@ https://pypi.org/project/facemask/
 
 Artificially add face mask on pictures
 https://pypi.org/project/face-mask/
+
+-------------
+
+Your face mask selfies could be training the next facial recognition tool
+https://www.cnet.com/news/your-face-mask-selfies-could-be-training-the-next-facial-recognition-tool/
+
+-------------
+
+Instagram mask image dataset with Python's FastAI application
+https://github.com/UniversalDataTool/coronavirus-mask-image-dataset
