@@ -48,11 +48,20 @@ https://www.cnet.com/news/your-face-mask-selfies-could-be-training-the-next-faci
 
 -------------
 
+Image Kernels explained visually
+https://setosa.io/ev/image-kernels/
+
+-------------
+
 Instagram mask image dataset with Python's FastAI application
 https://github.com/UniversalDataTool/coronavirus-mask-image-dataset
 
+-------------
+
 Real-World Masked Face Dataset
 https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset
+
+-------------
 
 Prajna Bhandary's Masked Face Detector Dataset
 https://github.com/prajnasb/face_detector
