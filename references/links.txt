@@ -20,3 +20,39 @@ https://nacoesunidas.org/criar-tecnologias-para-ajudar-a-enfrentar-os-desafios-d
 
 WHO - Coronavirus disease (COVID-19) pandemic
 https://www.who.int/emergencies/diseases/novel-coronavirus-2019
+
+-------------
+
+BaiDu Releases Open-Source Face Mask Detection Model
+https://pandaily.com/baidu-releases-open-source-face-mask-detection-model/
+
+-------------
+
+BaiDu industry's first open source mask face detection and classification models
+https://www.codetd.com/en/article/9137543
+
+-------------
+
+Fast mask detection classifier that utilizes pytorch using BaiDu pretrained model
+https://pypi.org/project/facemask/
+
+-------------
+
+Artificially add face mask on pictures
+https://pypi.org/project/face-mask/
+
+-------------
+
+Your face mask selfies could be training the next facial recognition tool
+https://www.cnet.com/news/your-face-mask-selfies-could-be-training-the-next-facial-recognition-tool/
+
+-------------
+
+Instagram mask image dataset with Python's FastAI application
+https://github.com/UniversalDataTool/coronavirus-mask-image-dataset
+
+Real-World Masked Face Dataset
+https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset
+
+Prajna Bhandary's Masked Face Detector Dataset
+https://github.com/prajnasb/face_detector
