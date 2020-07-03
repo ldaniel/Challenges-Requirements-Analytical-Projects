@@ -130,3 +130,8 @@ dmypy.json
 
 # mac files
 .DS_Store
+
+# Big Models
+models/model_CNN.h5
+models/model_NN.h5
+
